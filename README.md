@@ -1,7 +1,7 @@
 # WordPress PHP education initiative (codename `servehappy`)
 [![Edit in GitHub](https://img.shields.io/badge/Edit_in_GitHub--green.svg?style=social)](https://github.com/WordPress/servehappy/edit/master/README.md)
 
-The servehappy project is an initiative that seeks to educate WordPress site owners about the value of having the latest version of PHP powering their WordPress site.  This supports the overall goal of increasing the percentage of WordPress installs running modern PHP versions.
+The _servehappy_ project is an initiative that seeks to educate WordPress site owners about the value of having the latest version of PHP powering their WordPress site.  This supports the overall goal of increasing the percentage of WordPress installs running modern PHP versions.
 
 ## Background
 
@@ -31,7 +31,7 @@ We will endeavour to keep this document up to date, but for all the most recent 
 
 ## Big picture overview
 
-The following table gives a high level overview of all the various components contributing to the servehappy initiative.
+The following table gives a high level overview of all the various components contributing to the _servehappy_ initiative.
 
 > Note: all delivery dates are _rough_ estimates only.
 
@@ -40,10 +40,10 @@ The following table gives a high level overview of all the various components co
 Benefit/Stats Collection | - [issue tracker](https://github.com/WordPress/servehappy/issues)<br> - [ Benefits & Stats project board](https://github.com/WordPress/servehappy/projects/1) | ongoing | TBD |
 | Resource Collection | [the servehappy resources repository](https://github.com/WordPress/servehappy-resources) | ongoing | TBD |
 | Information Page on WP.org | - [Current Draft](https://github.com/WordPress/servehappy/blob/master/DRAFT.md) <br> - [trac ticket](https://meta.trac.wordpress.org/ticket/2996) | **active** | 1st Quarter 2018 |
-| Admin Notice in Dashboard | - [Create browse happy type notice for PHP versions](https://core.trac.wordpress.org/ticket/41191) <br> - [Integrating the Servehappy Page with WordPress Core](https://github.com/WordPress/servehappy/blob/master/CORE-INTEGRATIONS.md) | **active** | 2nd Quarter 2018 |
+| Admin Notice in Dashboard | - [Create browse happy type notice for PHP versions](https://core.trac.wordpress.org/ticket/41191) <br> - [Integrating the servehappy Page with WordPress Core](https://github.com/WordPress/servehappy/blob/master/CORE-INTEGRATIONS.md) | **active** | 2nd Quarter 2018 |
 | Minimum PHP version API for plugins/themes in core | - [trac ticket](https://core.trac.wordpress.org/ticket/40934) | **active** | TBD |
 
-A more descriptive outline of some of the concrete deliverables associated with the servehappy initiative:
+A more descriptive outline of some of the concrete deliverables associated with the _servehappy_ initiative:
 
 ### Collection of Benefits and Stats
 
@@ -74,13 +74,13 @@ The proposal is to allow plugins and themes to have a minimum PHP version requir
 
 ## Tide Project
 
-While not directly related to the servehappy initiative, the [Tide Project](https://make.wordpress.org/tide/) will indirectly support the various efforts in process.  It will particularly help with prividing feedback to users about what plugins/themes they have in use on their site that might not be compatible with a PHP version being upgraded to.
+While not directly related to the _servehappy_ initiative, the [Tide Project](https://make.wordpress.org/tide/) will indirectly support the various efforts in process.  It will particularly help with providing feedback to users about what plugins/themes they have in use on their site that might not be compatible with a PHP version being upgraded to.
 
-See [here](https://xwp.co/tide-a-path-to-better-code-across-the-wordpress-ecosystem/) for an overview of what the tide project is
+See [here](https://xwp.co/tide-a-path-to-better-code-across-the-wordpress-ecosystem/) for an overview of what the Tide project is.
 
 ## Related Trac tickets/Other Resources
 
-This is a list of trac tickets that have some relation to the overall servehappy project:
+This is a list of trac tickets that have some relation to the overall _servehappy_ project:
 
 - https://core.trac.wordpress.org/ticket/33381
 - https://core.trac.wordpress.org/ticket/40934
